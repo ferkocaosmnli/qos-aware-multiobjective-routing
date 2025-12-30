@@ -174,4 +174,14 @@ Bu proje, QoS farkındalıklı yönlendirme problemini:
 olarak ele alan bütünleşik bir sistem sunmaktadır.  
 Gerçekçi ağ senaryolarında farklı algoritmaların performanslarını karşılaştırmak için kullanılabilir.
 
-Bu proje Ferhat kOCAOSMA
+Bu proje 
+Rana AKYÜZ
+Ferhat KOCAOSMANLI
+Sıla TOKER
+Hasan TOKPINAR
+Zekiye ILMAN
+Buse GÜVEZ
+Yaren Deniz TEZCAN
+Dheya ALESHAWI tarafından oluşturulmuş, geliştirilmiştir.
+
+<img width="470" height="286" alt="image" src="https://github.com/user-attachments/assets/a99dd50d-ff36-47bd-9305-4ec142148c4f" />
